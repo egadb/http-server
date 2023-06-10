@@ -1,2 +1,2 @@
 # http-server
-HTTP server made in C++
+Basic HTTP server made in C++ using winsock2.
